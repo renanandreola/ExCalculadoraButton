@@ -1,0 +1,18 @@
+body {
+    background-color: gainsboro;
+}
+
+body h1 {
+    position: relative;
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+body button {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+body h2 {
+    font-size: 20px;
+}
